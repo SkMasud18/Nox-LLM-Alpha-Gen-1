@@ -1,0 +1,10 @@
+{
+  "quant_method": "gguf",
+  "quant_type": "Q4_K_M",
+  "block_size": 256,
+  "bits_per_weight": 4.5,
+  "estimated_ram_usage_gb": 4.68,
+  "supported_backends": ["llama.cpp", "ollama", "vllm", "mlx"],
+  "target_hardware": ["Apple Silicon (Unified Memory >= 8GB)", "NVIDIA RTX 3060/4060+ (VRAM >= 6GB)"],
+  "context_length": 131072
+}

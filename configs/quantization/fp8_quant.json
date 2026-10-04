@@ -1,0 +1,8 @@
+{
+  "quant_method": "fp8",
+  "activation_scheme": "static",
+  "weight_block_size": [128, 128],
+  "format": "e4m3fn",
+  "target_hardware": ["NVIDIA Hopper (H100/H200)", "NVIDIA Ada Lovelace (RTX 4090/L40S)", "NVIDIA Blackwell (B200)"],
+  "throughput_boost_vs_fp16": "2.4x"
+}

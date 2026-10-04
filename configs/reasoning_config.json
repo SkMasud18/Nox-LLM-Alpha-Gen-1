@@ -1,0 +1,32 @@
+{
+  "reasoning_framework": "Nox-Dynamic-TTC",
+  "version": "1.0.0",
+  "test_time_compute": {
+    "enabled": true,
+    "min_thinking_budget": 1024,
+    "max_thinking_budget": 32768,
+    "default_budget": 8192,
+    "temperature_range": [0.6, 0.7],
+    "top_p": 0.95
+  },
+  "search_policy": {
+    "strategy": "monte_carlo_tree_search",
+    "num_rollouts": 16,
+    "exploration_constant_c_puct": 1.25,
+    "pruning_threshold": 0.15
+  },
+  "self_correction": {
+    "max_reflection_loops": 4,
+    "invariant_checking": true,
+    "backtrack_on_syntax_error": true,
+    "formal_math_verifier": true
+  },
+  "special_tokens": {
+    "thought_start": "<think>",
+    "thought_end": "</think>",
+    "canvas_start": "<canvas>",
+    "canvas_end": "</canvas>",
+    "verification_start": "<verify>",
+    "verification_end": "</verify>"
+  }
+}
