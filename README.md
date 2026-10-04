@@ -2,14 +2,14 @@
 
 # 🧠 Nox LLM Alpha Gen 1
 ### Sovereign Deep Reasoning Foundation Model & Cognitive Architecture
-*Engineered by **Sk Masud Rahaman** • **Falcon Intelligence***
+*Engineered by **Sk Masud Rahaman** (Founder) • **Falcon Intelligence***
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4_Ready-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-12.2_Optimized-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com)
 [![HuggingFace Model](https://img.shields.io/badge/HuggingFace-Nox--LLM--Alpha--Gen--1-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/SkMasud58/Nox-LLM-Alpha-Gen-1)
 [![Live Platform](https://img.shields.io/badge/Platform-NoxAssistant.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noxassistant.com)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg?style=for-the-badge)](LICENSE)
-[![Architect](https://img.shields.io/badge/Lead_Architect-Sk_Masud_Rahaman-orange?style=for-the-badge)](https://github.com/SkMasud18)
+[![Architect](https://img.shields.io/badge/Founder_&_Architect-Sk_Masud_Rahaman-orange?style=for-the-badge)](https://github.com/SkMasud18)
 
 <p align="center">
   <b>Nox LLM Alpha Gen 1</b> is a frontier-class, sovereign cognitive foundation model engineered for test-time compute scaling, autonomous multi-turn reasoning, formal invariant verification, and interactive split-pane Canvas generation.
